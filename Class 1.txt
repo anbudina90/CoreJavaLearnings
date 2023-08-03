@@ -1,0 +1,17 @@
+Class 1:
+Introductory session on Java installation and Eclipse
+
+1. Install Java JDK17 version 
+Link: https://www.oracle.com/in/java/technologies/downloads/#java17
+
+2. Install Eclipse below verison
+
+Link: https://www.eclipse.org/downloads/
+
+Practicing the first Program of Hello World
+
+
+Assignments:
+1. Why Naming Conventions important in Java?
+2. Explain Pubic static void main string args statement
+
